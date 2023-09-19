@@ -1,0 +1,6 @@
+0 Scab
+1 Rust
+2 Healty
+3 Black Rot
+4 Common Rust
+5 Powdery Mild...
